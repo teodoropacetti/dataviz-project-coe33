@@ -1,4 +1,4 @@
-# A Computational Approach for Exploring Narrative Structure and Character Dynamics in Clair Obscur: Expedition 33
+# A Computational Approach for Exploring Narrative Structure and Character Dynamics in *Clair Obscur: Expedition 33*
 Project for the Data Visualization course for the Data Science Master's Degree at UniMiB
 
 ## Getting Started
