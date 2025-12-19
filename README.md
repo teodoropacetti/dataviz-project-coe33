@@ -6,11 +6,11 @@ Follow these steps to set up the project on your local machine.
 
 1) ### Clone the repository:
     ```bash
-   git clone https://github.com/teodoropacetti/data-management-project-unimib.git
+   git clone git clone https://github.com/teodoropacetti/dataviz-project-coe33.git
     ```
 2) ### Navigate to the project directory:
    ```bash
-   cd data-management-project-unimib
+   cd dataviz-project-coe33
    ```
 3) ### Create a virtual environment (optional but recommended):
    
